@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This is a source code of how to create line graph using Python with Matplotlib package.
+This is a source code of how to visualize data using Python with Matplotlib package.
 	
 ## Technologies
 Project is created with:
