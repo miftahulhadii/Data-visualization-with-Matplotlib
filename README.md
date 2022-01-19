@@ -10,6 +10,7 @@ This is included:
 * Scatter chart
 * Line chart
 * Mountain countour
+* Pie chart
 	
 ## Technologies
 Project is created with:
