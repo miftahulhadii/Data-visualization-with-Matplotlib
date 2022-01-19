@@ -14,7 +14,7 @@ Project is created with:
 	
 ## Setup
 To run this project, 
-1. First, you have to install Python on `https://www.python.org/downloads/`
+1. First, you have to install Python on https://www.python.org/downloads/
 2. After you download the Python, you can install it.
 3. When the installation is complete, you can install Matplotlib packages using `Command Prompt` in your Windows System.
 4. Locate your Command Prompt in `C:\Users\MY\AppData\Local\Programs\Python\Python38\Scripts`
