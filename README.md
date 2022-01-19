@@ -5,6 +5,11 @@
 
 ## General info
 This is a source code of how to visualize data using Python with Matplotlib package.
+This is included:
+* Bar chart
+* Scatter chart
+* Line chart
+* Mountain countour
 	
 ## Technologies
 Project is created with:
