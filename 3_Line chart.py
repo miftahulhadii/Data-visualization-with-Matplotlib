@@ -8,8 +8,8 @@ hadi.rcParams.update({'font.size': 11.5}) #use matplotlib packages for changing 
  
 x = [2010, 2012, 2014, 2016, 2018, 2020, 2022]      
 
-y1 = [107.044, 107.063, 107.124, 107, -64.147, -235.436, -406.638]      
-y2 = [430.225, 751.858, 598.677, 428.000, 256.908, 85.701, -85.484]
+y1 = [107.044, 207.063, 259.124, 222, 230, 180, 400]      
+y2 = [430.225, 351.858, 598.677, 428.000, 256.908, 485.701, 385.484]
 
 hadi.xlabel(r'Year') #give a label for x-axis
 hadi.ylabel(r'Revenue') #give a label for y-axis
