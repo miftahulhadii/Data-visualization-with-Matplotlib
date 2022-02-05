@@ -6,15 +6,20 @@ hadi.rcParams.update({'font.size': 11.5}) #use matplotlib packages for changing 
 #input data. 
 #X as a Big PL Club, and Y as the number of PL titles 
  
-x = ['MU', 'City', 'Chelsea', 'Liverpool', 'Arsenal', 'Spurs']      
+x = ['Chelsea', 'Liverpool', 'Arsenal', 'Spurs','MU', 'City']      
 
-y = [20, 7, 6, 19, 13, 2] 
+y = [6, 19, 13, 2, 20, 7]
+
+colors = ['blue','red','purple','white','maroon','skyblue']
 
 #give an instruction to create a line chart
-hadi.pie(y, labels = x) 
+hadi.pie(y, labels = x, colors = colors)
 
 #create a title
 hadi.title("The winners of PL titles of all-time")
+
+#create a legend
+hadi.legend([r"Chelsea", r"Liverpool", r"Arsenal", r"Spurs",r"MU", r"City"])
            
 #create an instruction to show a graph
 hadi.show()
