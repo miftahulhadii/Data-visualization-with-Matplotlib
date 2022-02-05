@@ -7,16 +7,22 @@
 This is a source code of how to visualize data using Python with Matplotlib package.
 This is included:
 * Bar chart
+
 ![1_Bar chart](https://user-images.githubusercontent.com/78077790/152623877-2f800797-9cad-45bb-be33-c96e87d04a6a.png)
 * Scatter chart
+
 ![2_Scatter chart](https://user-images.githubusercontent.com/78077790/152624907-6fac7448-9eef-4bc3-b6a3-ce0c2593571f.png)
 * Line chart
-![Uploading 3_Line chart.png…]()
+
+![3_Line chart](https://user-images.githubusercontent.com/78077790/152625061-c2955dcd-6bb5-41b4-8b3e-298866bc9474.png)
 * Mountain countour
-![4_Mountain countour (Mt  Tangkuban Parahu) (1)](https://user-images.githubusercontent.com/78077790/152624920-b19d640d-0f1d-4bb3-9ed5-307a8738d941.png)
+
+![4_Mountain countour (Mt  Tangkuban Parahu) (1)](https://user-images.githubusercontent.com/78077790/152625039-011471c4-7d43-4ae4-85e4-e1856b81f36e.png)
+
 * Pie chart
-![5_Pie chart](https://user-images.githubusercontent.com/78077790/152624929-f33d7699-0c78-4bf7-8587-7448f87d3e94.png)
-	
+
+![5_Pie chart](https://user-images.githubusercontent.com/78077790/152625027-54a51094-dbc0-4fc0-a4ac-beed30d42874.png)
+
 ## Technologies
 Project is created with:
 * Python version: 3.8.0
